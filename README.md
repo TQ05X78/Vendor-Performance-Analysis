@@ -20,7 +20,7 @@ dependency. The goal of this analysis is to:
 
 
 
-## Focus Area - Data Analysis with SQL, Python & Power BI
+## 💡 Focus Area - Data Analysis with SQL, Python & Power BI
 At the end of the course, these are my 🔑 key learnings:
 
 * Learn the data analysis process of wrangling, exploring, analyzing, and communicating data, and work with data in SQL and Python using libraries like NumPy and Pandas.
